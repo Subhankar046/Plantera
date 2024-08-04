@@ -1,7 +1,7 @@
 
 {
   "scripts": {
-    "start": "npm run backend & npm run frontend",
+    "start": "npm run frontend",
     "frontend": "cd frontend && npm start",
     "backend": "node backend/index.js",
     "admin": "cd admin && npm run dev",
