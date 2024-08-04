@@ -2,7 +2,7 @@
     height: 100vh;
     background: linear-gradient(180deg, #e1ffe8, #014c1822 50%);
     display: flex;
-    background-image: url("/Users/subhankar/Downloads/E-commerce/frontend/src/Components/Assets/new_hero_bg.png");
+    background-image: url("../Assets/new_hero_bg.png");
 }
 
 .hero-left{
