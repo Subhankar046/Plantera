@@ -10,6 +10,7 @@ const cors = require("cors");
 app.use(express.json());
 app.use(cors());
 
+
 // Database Connection with MongoDB
 mongoose.connect("mongodb+srv://subhrohan04:mongodb16@cluster0.me6xivx.mongodb.net/e-commerce");
 
